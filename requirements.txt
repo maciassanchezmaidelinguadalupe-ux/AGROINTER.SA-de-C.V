@@ -3,3 +3,5 @@ gunicorn==22.0.0
 pymysql
 python-dotenv
 Werkzeug
+reportlab==4.1.0
+Pillow
